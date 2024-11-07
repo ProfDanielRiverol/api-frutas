@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nombre": "Manzana",
+    "precio": 1.2,
+    "ruta": "https://nexciencia.exactas.uba.ar/wp-content/uploads/2022/09/DSC_4466b_dest.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Plátano",
+    "precio": 0.5,
+    "ruta": "https://veramendi.pe/46-superlarge_default/platanos.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Fresa",
+    "precio": 3.0,
+    "ruta": "https://vidalforce.com/modules/idxringredientes/images/201/ingrediente-image.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Naranja",
+    "precio": 0.8,
+    "ruta": "https://buymassry.com/images/detailed/19/Orange_Valencia_Agreen.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Uva",
+    "precio": 2.5,
+    "ruta": "https://enovalencia.com/wp-content/uploads/diferencia-entre-uva-blanca-uva-tinta.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Pera",
+    "precio": 1.5,
+    "ruta": "https://www.gob.mx/cms/uploads/image/file/425838/Pera_3.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Mango",
+    "precio": 2.0,
+    "ruta": "https://www.thani.ec/wp-content/uploads/2022/05/mango1.jpeg"
+  },
+  {
+    "id": 8,
+    "nombre": "Ananá",
+    "precio": 3.5,
+    "ruta": "https://www.gob.mx/cms/uploads/article/main_image/75312/pi_a.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Cereza",
+    "precio": 4.0,
+    "ruta": "https://static.libertyprim.com/files/familles/cerise-large.jpg?1569271737"
+  },
+  {
+    "id": 10,
+    "nombre": "Kiwi",
+    "precio": 2.8,
+    "ruta": "https://media.istockphoto.com/id/834807852/es/foto/fruta-de-kiwi-entero-y-medio-kiwi-frutas-en-blanco.jpg?s=612x612&w=0&k=20&c=gOuxdy3L1fiuOxAMxiU9ffs_0tSDP_lv0CC5TGYBGJY="
+  }
+]
